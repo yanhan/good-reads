@@ -71,6 +71,7 @@ AWS
 ## MFA
 
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_configure-api-require.html  (MFA for API calls)
+- https://aws.amazon.com/premiumsupport/knowledge-center/authenticate-mfa-cli/
 
 
 ## SSM
