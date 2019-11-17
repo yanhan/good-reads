@@ -65,6 +65,12 @@ AWS
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_passrole.html
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html (Permissions Boundaries)
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_multi-value-conditions.html
+- https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
+
+
+## MFA
+
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_configure-api-require.html  (MFA for API calls)
 
 
 ## SSM
