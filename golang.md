@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/57885949/private-repo-go-1-13-go-mod-failed-ping-sum-golang-org-lookup-ver/57887036#57887036 (private Golang git repo)
