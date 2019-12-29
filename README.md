@@ -90,6 +90,7 @@ Good technical reads
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/_list_all_indices.html
 - https://www.elastic.co/guide/en/elasticsearch/reference/6.2/disk-allocator.html
 - https://www.elastic.co/guide/en/logstash/6.3/event-dependent-configuration.html
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-nodes-stats.html
 
 
 ## FileBeat
