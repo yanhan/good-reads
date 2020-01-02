@@ -260,3 +260,14 @@ Sysadmin stuff.
 ## General
 
 - http://blog.scoutapp.com/articles/2014/11/04/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups
+
+
+## Kerberos
+
+- https://www.oreilly.com/library/view/hadoop-security/9781491900970/ch04.html
+- https://gist.github.com/ashrithr/4767927948eca70845db
+- https://www.theurbanpenguin.com/configuring-a-centos-7-kerberos-kdc/
+- https://www.howtoforge.com/tutorial/how-to-setup-kerberos-server-and-client-on-ubuntu-1804-lts/
+- https://wiki.ubuntu.com/Enterprise/Authentication/KerberosServices
+- https://www.learningjournal.guru/article/hadoop/hadoop-security-using-kerberos/
+- http://hadoopexam.com/do1111/index.php/free-tutorial/hadoop-security-keberos-tutorial
