@@ -271,3 +271,6 @@ Sysadmin stuff.
 - https://wiki.ubuntu.com/Enterprise/Authentication/KerberosServices
 - https://www.learningjournal.guru/article/hadoop/hadoop-security-using-kerberos/
 - http://hadoopexam.com/do1111/index.php/free-tutorial/hadoop-security-keberos-tutorial
+- https://stackoverflow.com/a/45318625 (kadmin: automate addprinc)
+- https://steveloughran.gitbooks.io/kerberos_and_hadoop/
+- https://ambari.apache.org/1.2.5/installing-hadoop-using-ambari/content/ambari-kerb-1-4.html (Good Hadoop & Kerberos docs)
