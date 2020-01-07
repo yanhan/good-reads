@@ -103,6 +103,7 @@ Sysadmin stuff.
 ## Hashicorp Vault
 
 - https://www.vaultproject.io/docs/concepts/pgp-gpg-keybase.html
+- https://learn.hashicorp.com/vault/developer/iam-authentication (AppRole Pull Authentication)
 
 
 ## fail2ban
