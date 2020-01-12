@@ -275,3 +275,5 @@ Sysadmin stuff.
 - https://stackoverflow.com/a/45318625 (kadmin: automate addprinc)
 - https://steveloughran.gitbooks.io/kerberos_and_hadoop/
 - https://ambari.apache.org/1.2.5/installing-hadoop-using-ambari/content/ambari-kerb-1-4.html (Good Hadoop & Kerberos docs)
+- https://microdevsys.com/wp/org-apache-hadoop-security-accesscontrolexception-client-cannot-authenticate-viatoken-kerberos/ (org.apache.hadoop.security.AccessControlException: Client cannot authenticate via: [TOKEN, KERBEROS])
+- https://www.ibm.com/support/knowledgecenter/en/SSPT3X_4.2.0/com.ibm.swg.im.infosphere.biginsights.admin.doc/doc/admin_ssl_hbase_mr_yarn_hdfs_web.html (Setting up Data Node SASL)
