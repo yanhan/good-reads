@@ -163,6 +163,10 @@ Sysadmin stuff.
 
 - https://www.terraform.io/docs/providers/terraform/d/remote_state.html#root-outputs-only (Accessing output from modules in remote state)
 
+### Templating
+
+- https://www.terraform.io/docs/configuration/functions/templatefile.html (Use jsonencode to generate list in template file)
+
 
 ## aws-vault
 
