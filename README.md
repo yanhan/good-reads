@@ -76,6 +76,7 @@ Good technical reads
 - https://engineering.quora.com/Mobile-A-B-Testing-at-Quora?srid=pXGZ&share=1
 - https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
 - http://engineering.grab.com/migrating-existing-datastores
+- https://news.ycombinator.com/item?id=22004133 (How to build a PaaS for 1500 engineers)
 
 
 ## Design Patterns
