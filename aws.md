@@ -91,6 +91,7 @@ AWS
 - https://docs.aws.amazon.com/lambda/latest/dg/vpc.html#vpc-configuring
 - https://stackoverflow.com/a/53364266/732396 (where to find Function Access Policy)
 - https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda
+- https://medium.com/@adhorn/multi-region-serverless-backend-reloaded-1b887bc615c0 (Multi-region Lambda)
 
 
 ## S3
