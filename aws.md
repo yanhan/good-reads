@@ -98,6 +98,7 @@ AWS
 
 - https://aws.amazon.com/premiumsupport/knowledge-center/s3-large-file-encryption-kms-key/
 - https://start.jcolemorrison.com/the-hitchhikers-guide-to-aws-ecs-and-docker/
+- https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-store-kms-encrypted-objects/ (enforce KMS object uploads)
 
 
 ## Elasticsearch

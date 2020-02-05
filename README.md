@@ -77,6 +77,7 @@ Good technical reads
 - https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
 - http://engineering.grab.com/migrating-existing-datastores
 - https://news.ycombinator.com/item?id=22004133 (How to build a PaaS for 1500 engineers)
+- https://bradfitz.com/2020/01/30/joining-tailscale
 
 
 ## Design Patterns
