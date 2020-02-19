@@ -85,6 +85,11 @@ AWS
 - https://medium.com/@marcincuber/amazon-eks-with-oidc-provider-iam-roles-for-kubernetes-services-accounts-59015d15cb0c
 
 
+## RDS
+
+- https://aws.amazon.com/premiumsupport/knowledge-center/duplicate-master-user-mysql/ (SQL command to create a new admin user)
+
+
 ## Lambda
 
 - https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html
