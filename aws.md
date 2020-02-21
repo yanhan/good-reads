@@ -7,6 +7,7 @@ AWS
 
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/list_amazonec2.html
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_actions-resources-contextkeys.html (Actions, Resources and Conditions for all AWS services)
+- https://aws.amazon.com/ec2/spot/instance-advisor/ (shows interruption percentage of all spot instance types)
 
 
 ## Unclassified
