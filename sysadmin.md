@@ -98,6 +98,7 @@ Sysadmin stuff.
 ## Ansible
 
 - https://stackoverflow.com/a/50526489 (Override ansible SSH private key file)
+- https://github.com/ansible/ansible/issues/33052#issuecomment-354709302 (`ec2_ami` module Failed to import the required Python library (botocore or boto3))
 
 
 ## Hashicorp Vault
