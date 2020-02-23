@@ -240,6 +240,7 @@ Sysadmin stuff.
 
 ## Docker
 
+- https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities (Docker runtime default capabilities)
 - https://stackoverflow.com/a/41021336 (devmapper: thin pool has N free data blocks which is less than minimum required .... Create more free space in thin pool or use `dm.min_free_space` to change behavior) [Basically running out of space for Docker images]
 - https://forums.docker.com/t/is-it-possible-to-ssh-to-the-xhyve-machine/17426/3
 - https://medium.com/devopsion/life-and-death-of-a-container-146dfc62f808
