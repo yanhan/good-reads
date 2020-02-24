@@ -121,6 +121,14 @@ Kubernetes
 - https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
 
 
+## Graceful Pod Termination
+
+- https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33
+- https://blog.gruntwork.io/gracefully-shutting-down-pods-in-a-kubernetes-cluster-328aecec90d
+- https://blog.gruntwork.io/delaying-shutdown-to-wait-for-pod-deletion-propagation-445f779a8304
+- https://blog.gruntwork.io/avoiding-outages-in-your-kubernetes-cluster-using-poddisruptionbudgets-ef6a4baa5085
+
+
 ## Deploying code
 
 - https://sanderknape.com/2019/02/automated-deployments-kubernetes-gitlab/
@@ -130,6 +138,11 @@ Kubernetes
 
 - https://sysdig.com/blog/kubernetes-monitoring-prometheus-operator-part3/
 - https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot/
+
+
+## Backup
+
+- https://github.com/vmware-tanzu/velero
 
 
 ## Operators
