@@ -177,6 +177,7 @@ Sysadmin stuff.
 ## Vagrant
 
 - https://stackoverflow.com/a/12938524/732396 (How to SSH into Vagrant without running "vagrant ssh")
+- https://stackoverflow.com/a/24869194 (Let multiple Vagrant boxes communicate with one another)
 
 
 ## Computer Networks
