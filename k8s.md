@@ -176,3 +176,8 @@ Kubernetes
 ## Datadog
 
 - https://github.com/DataDog/datadog-agent/issues/2816#issuecomment-513975368 (custom metrics and HPA, use `sum`)
+
+
+## kubeadm
+
+- https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker
