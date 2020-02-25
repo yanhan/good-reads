@@ -85,6 +85,7 @@ Kubernetes
 ## PSP (PodSecurityPolicy)
 
 - https://github.com/kubernetes/kubernetes/issues/71787#issuecomment-444894042 (how psps are chosen)
+- https://banzaicloud.com/blog/pod-security-policy/
 
 
 ## EKS
@@ -95,6 +96,8 @@ Kubernetes
 - https://docs.aws.amazon.com/eks/latest/userguide/network_reqs.html
 - https://github.com/pulumi/pulumi-eks/issues/18 (Worker node cloud-init failure because they are launched into public subnets. Solution is to restrict them to private subnets only)
 - https://github.com/terraform-aws-modules/terraform-aws-eks/issues/183#issuecomment-435877738 (Permissions required by EKS service role to create ELB)
+- https://github.com/terraform-providers/terraform-provider-aws/issues/10104#issuecomment-565547413 (EKS OIDC provider CA cert thumbprint)
+- https://github.com/vmware-tanzu/velero-plugin-for-aws/issues/17 (IAM role for service account: use `fsGroup` to get permissions to read token)
 
 ### Essential addons
 
@@ -162,6 +165,7 @@ Kubernetes
 - https://github.com/kubernetes-incubator/metrics-server/issues/130#issuecomment-508667085 (metrics-server unable to fetch metrics from kubelet solution: `--kubelet-preferred-address-types=InternalIP`)
 - https://stackoverflow.com/questions/44736101/kubectl-get-hpa-targetsunknow/44736377#44736377 (HPA targets `<unknown>/20%`; need to specify `resources` in container spec)
 - https://github.com/kubernetes/kops/issues/1796#issuecomment-329938319 (cluster-autoscaler needs `dnsPolicy: Default` if running on nodes without core-dns)
+- https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 
 
 ## Linux capabilities
