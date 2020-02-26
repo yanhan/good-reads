@@ -166,6 +166,7 @@ Kubernetes
 - https://stackoverflow.com/questions/44736101/kubectl-get-hpa-targetsunknow/44736377#44736377 (HPA targets `<unknown>/20%`; need to specify `resources` in container spec)
 - https://github.com/kubernetes/kops/issues/1796#issuecomment-329938319 (cluster-autoscaler needs `dnsPolicy: Default` if running on nodes without core-dns)
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
+- https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes#step-3-%E2%80%94-installing-metrics-server (metrics-server: take note of the `--kubelet-preferred-address-types=InternalIP`)
 
 
 ## Linux capabilities
