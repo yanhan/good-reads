@@ -8,6 +8,7 @@ Sysadmin stuff.
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read; note down the interesting stuff)
 - https://stripe.com/blog/game-day-exercises-at-stripe
 - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
+- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial
 
 
 ## Load Testing
