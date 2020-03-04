@@ -113,6 +113,12 @@ Kubernetes
 - https://github.com/kubernetes/ingress-nginx/blob/master/docs/deploy/index.md
 - https://docs.cert-manager.io/en/latest/tutorials/acme/quick-start/index.html
 
+### Spot instances
+
+- https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
+- https://github.com/aws/aws-node-termination-handler (DaemonSet that monitors spot interruptions and cordons and drains node)
+- https://github.com/pusher/k8s-spot-rescheduler
+
 
 ## Exposing service via domain name
 
@@ -182,3 +188,8 @@ Kubernetes
 ## kubeadm
 
 - https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker
+
+
+## Other
+
+- https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/

@@ -223,3 +223,8 @@ Good technical reads
 ## Maven
 
 - https://stackoverflow.com/a/38883073 (Specify Java version in Maven)
+
+
+## Dhall
+
+- http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
