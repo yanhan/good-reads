@@ -119,6 +119,10 @@ Kubernetes
 - https://github.com/aws/aws-node-termination-handler (DaemonSet that monitors spot interruptions and cordons and drains node)
 - https://github.com/pusher/k8s-spot-rescheduler
 
+### Security
+
+- https://aws.amazon.com/blogs/containers/using-eks-encryption-provider-support-for-defense-in-depth/
+
 
 ## Exposing service via domain name
 
