@@ -141,6 +141,8 @@ Sysadmin stuff.
 
 ## Securing stuff
 
+- https://www.netmeister.org/blog/mktemp.html
+
 ### HTTPS for localhost
 
 - https://news.ycombinator.com/item?id=17358339 (Certificates for localhost)
