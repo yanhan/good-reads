@@ -192,6 +192,13 @@ Kubernetes
 ## kubeadm
 
 - https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker
+-https://github.com/kubernetes/kubeadm/issues/1899#issuecomment-552134904 (Specify `--pod-network-cidr` via ClusterConfiguration manifest file)
+
+
+## linkerd
+
+- https://github.com/linkerd/linkerd2/issues/3721 (linkerd HA; need to add annotation and label on `kube-system` namespace to remove dependency on proxy auto-injector for pods in that namespace)
+- https://linkerd.io/2/features/ha/
 
 
 ## Other
