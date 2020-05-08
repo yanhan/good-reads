@@ -183,6 +183,11 @@ Good technical reads
 - https://news.ycombinator.com/item?id=17378749 (Ask HN: Have you shipped anything serious with a "serverless" architecture?)
 
 
+## Kotlin
+
+- https://kotlinlang.org/docs/reference/type-safe-builders.html
+
+
 ## Python
 
 - https://stackoverflow.com/a/3220312
