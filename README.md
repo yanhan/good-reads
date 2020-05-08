@@ -187,6 +187,12 @@ Good technical reads
 
 - https://kotlinlang.org/docs/reference/type-safe-builders.html
 
+### Building (using Gradle)
+
+- https://kotlinlang.org/docs/reference/using-gradle.html
+- https://guides.gradle.org/building-kotlin-jvm-libraries/
+- https://docs.gradle.org/current/userguide/working_with_files.html#sec:creating_uber_jar_example
+
 
 ## Python
 
