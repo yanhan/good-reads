@@ -192,6 +192,9 @@ Good technical reads
 - https://kotlinlang.org/docs/reference/using-gradle.html
 - https://guides.gradle.org/building-kotlin-jvm-libraries/
 - https://docs.gradle.org/current/userguide/working_with_files.html#sec:creating_uber_jar_example
+- https://stackoverflow.com/a/42259553 (JavaExec type tasks)
+- https://stackoverflow.com/a/48034664 (Support running of multiple classes)
+- https://stackoverflow.com/a/51407975 (Supply command line arguments to the class being run)
 
 
 ## Python
