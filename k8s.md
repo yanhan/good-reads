@@ -177,6 +177,7 @@ Kubernetes
 - https://github.com/kubernetes/kops/issues/1796#issuecomment-329938319 (cluster-autoscaler needs `dnsPolicy: Default` if running on nodes without core-dns)
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes#step-3-%E2%80%94-installing-metrics-server (metrics-server: take note of the `--kubelet-preferred-address-types=InternalIP`)
+- https://alta3.com/blog/error-invalid-value-apiall-on-kube-apiserver (kube-apiserver binary `--runtime-config=api/all` flag should be `--runtime-config=api/all=true`)
 
 
 ## Linux capabilities

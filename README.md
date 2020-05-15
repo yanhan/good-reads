@@ -196,6 +196,10 @@ Good technical reads
 - https://stackoverflow.com/a/48034664 (Support running of multiple classes)
 - https://stackoverflow.com/a/51407975 (Supply command line arguments to the class being run)
 
+### Reflection
+
+- https://stackoverflow.com/a/43341758 (Using reflection with JAR compiled from `kotlinc`)
+
 
 ## Python
 
