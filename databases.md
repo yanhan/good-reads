@@ -9,6 +9,12 @@
 - https://dba.stackexchange.com/a/73249 (enforce SSL / TLS for specific DB users)
 
 
+## Redis
+
+- https://scalegrid.io/blog/top-redis-use-cases-by-core-data-structure-types/
+- https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c (save memory using Hash instead of strings)
+
+
 ## PostgreSQL
 
 - https://robots.thoughtbot.com/reading-an-explain-analyze-query-plan
