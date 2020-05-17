@@ -21,6 +21,7 @@
 - https://www.infoworld.com/article/3230455/how-to-use-redis-for-real-time-metering-applications.html?page=2 (Rate limiting examples)
 - https://scalegrid.io/blog/introduction-to-redis-data-structures-hashes/ (Similar to the instagram engineering post on memory savings using hashes. Touches a bit on `list-max-ziplist-entries` and `list-max-ziplist-value`)
 - https://scalegrid.io/blog/introduction-to-redis-data-structure-bitmaps/
+- https://cloudplatform.googleblog.com/2015/04/a-guy-walks-into-a-NoSQL-bar-and-asks-how-many-servers-to-get-1Mil-ops-a-second.html (Performance: 1 million ops / s)
 
 
 ## PostgreSQL
