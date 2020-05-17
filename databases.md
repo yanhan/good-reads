@@ -1,3 +1,8 @@
+## Sharding
+
+- https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
+
+
 ## Optimization
 
 - https://engineering.squarespace.com/blog/2019/performance-tuning-postgres-within-our-tls-infrastructure
@@ -15,6 +20,7 @@
 - https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c (save memory using Hash instead of strings)
 - https://www.infoworld.com/article/3230455/how-to-use-redis-for-real-time-metering-applications.html?page=2 (Rate limiting examples)
 - https://scalegrid.io/blog/introduction-to-redis-data-structures-hashes/ (Similar to the instagram engineering post on memory savings using hashes. Touches a bit on `list-max-ziplist-entries` and `list-max-ziplist-value`)
+- https://scalegrid.io/blog/introduction-to-redis-data-structure-bitmaps/
 
 
 ## PostgreSQL
