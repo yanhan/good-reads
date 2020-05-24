@@ -22,11 +22,17 @@
 - https://scalegrid.io/blog/introduction-to-redis-data-structure-bitmaps/
 - https://cloudplatform.googleblog.com/2015/04/a-guy-walks-into-a-NoSQL-bar-and-asks-how-many-servers-to-get-1Mil-ops-a-second.html (Performance: 1 million ops / s)
 - https://redis.io/topics/lru-cache
+- https://redis.io/topics/data-types-intro
+- https://redis.io/topics/transactions
 
 ### Redis Optimization
 
 - https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c (save memory using Hash instead of strings)
 - https://redis.io/topics/memory-optimization
+
+### Advanced
+
+- https://redis.io/topics/indexes
 
 
 ## PostgreSQL

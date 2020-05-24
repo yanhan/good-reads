@@ -65,6 +65,10 @@ Kubernetes
 ## CNI (Container Network Interface)
 
 - https://rancher.com/blog/2019/2019-03-21-comparing-kubernetes-cni-providers-flannel-calico-canal-and-weave/
+- https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
+- https://github.com/coreos/flannel
+- https://github.com/coreos/flannel/blob/master/Documentation/kubernetes.md
+- https://gist.github.com/PatrickLang/02b7c504fecdd08b498d13bdeee88186
 
 
 ## Minikube
@@ -178,6 +182,11 @@ Kubernetes
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes#step-3-%E2%80%94-installing-metrics-server (metrics-server: take note of the `--kubelet-preferred-address-types=InternalIP`)
 - https://alta3.com/blog/error-invalid-value-apiall-on-kube-apiserver (kube-apiserver binary `--runtime-config=api/all` flag should be `--runtime-config=api/all=true`)
+
+### DNS resolution
+
+- https://github.com/kubernetes/minikube/issues/4167 (minikube: cannot resolve external names from Pods)
+- https://github.com/coredns/coredns/blob/master/plugin/loop/README.md#troubleshooting-loops-in-kubernetes-clusters (More explanation on /etc/resolv.conf at the end)
 
 
 ## Linux capabilities

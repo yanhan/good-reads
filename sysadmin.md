@@ -16,6 +16,12 @@ Sysadmin stuff.
 - https://github.com/fortio/fortio
 
 
+## systemctl
+
+- https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
+- https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
+
+
 ## GitLab
 
 - https://about.gitlab.com/2016/07/29/the-basics-of-gitlab-ci/
