@@ -69,6 +69,7 @@ Kubernetes
 - https://github.com/coreos/flannel
 - https://github.com/coreos/flannel/blob/master/Documentation/kubernetes.md
 - https://gist.github.com/PatrickLang/02b7c504fecdd08b498d13bdeee88186
+- https://github.com/projectcalico/calico/issues/2042 (Calico `IP_AUTODETECTION_METHOD`)
 
 
 ## Minikube

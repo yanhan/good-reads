@@ -4,3 +4,10 @@
 ## Gin
 
 - https://github.com/gin-gonic/gin/issues/339 (Nested templates)
+
+
+## Useful libraries
+
+- https://github.com/gin-gonic/gin
+- https://github.com/Go-SQL-Driver/MySQL/
+- https://github.com/DATA-DOG/go-sqlmock
