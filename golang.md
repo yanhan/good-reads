@@ -4,6 +4,7 @@
 ## Gin
 
 - https://github.com/gin-gonic/gin/issues/339 (Nested templates)
+- https://stackoverflow.com/a/19253970 (Make URL encoded POST request using `http.NewRequest`)
 
 
 ## Useful libraries
@@ -11,3 +12,8 @@
 - https://github.com/gin-gonic/gin
 - https://github.com/Go-SQL-Driver/MySQL/
 - https://github.com/DATA-DOG/go-sqlmock
+
+
+## database/sql
+
+- http://go-database-sql.org/errors.html
