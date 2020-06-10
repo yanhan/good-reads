@@ -5,6 +5,7 @@
 
 - https://github.com/gin-gonic/gin/issues/339 (Nested templates)
 - https://stackoverflow.com/a/19253970 (Make URL encoded POST request using `http.NewRequest`)
+- https://github.com/gwatts/gin-adapter (Adapt standard Golang HTTP middleware for Gin; this works)
 
 
 ## Useful libraries
@@ -17,3 +18,8 @@
 ## database/sql
 
 - http://go-database-sql.org/errors.html
+
+
+## Lists
+
+- https://github.com/guardrailsio/awesome-golang-security

@@ -19,3 +19,24 @@ Lessons from companies / people on scaling systems.
 ## Varnish
 
 - https://varnish-cache.org/docs/6.4/users-guide/increasing-your-hitrate.html#http-vary
+
+
+## MySQL
+
+- https://www.wix.engineering/post/scaling-to-100m-mysql-is-a-better-nosql
+
+
+## Optimization
+
+- https://engineering.squarespace.com/blog/2019/performance-tuning-postgres-within-our-tls-infrastructure
+- http://www.helenanderson.co.nz/sql-query-tweaks/
+
+
+## Sharding
+
+- https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
+
+
+## Generating globally unique ids
+
+- https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/

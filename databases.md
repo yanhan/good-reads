@@ -1,14 +1,3 @@
-## Sharding
-
-- https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
-
-
-## Optimization
-
-- https://engineering.squarespace.com/blog/2019/performance-tuning-postgres-within-our-tls-infrastructure
-- http://www.helenanderson.co.nz/sql-query-tweaks/
-
-
 ## MySQL
 
 - https://dba.stackexchange.com/a/73249 (enforce SSL / TLS for specific DB users)
