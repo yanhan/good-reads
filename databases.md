@@ -2,6 +2,7 @@
 
 - https://dba.stackexchange.com/a/73249 (enforce SSL / TLS for specific DB users)
 - https://forums.mysql.com/read.php?10,190408,190613#msg-190613 (Get all possible enum values for a column)
+- https://www.oreilly.com/library/view/mysql-reference-manual/0596002653/ch05s03.html (Locking)
 
 
 ## Redis

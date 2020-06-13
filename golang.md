@@ -23,3 +23,20 @@
 ## Lists
 
 - https://github.com/guardrailsio/awesome-golang-security
+
+
+## Quick refresher guides
+
+- https://yourbasic.org/golang/
+- https://gobyexample.com
+
+
+## Fundamentals
+
+- https://yourbasic.org/golang/slices-explained/
+- https://yourbasic.org/golang/find-search-contains-slice/ (`sort.SearchInt`, `sort.Search`)
+- https://www.geeksforgeeks.org/how-to-compare-equality-of-struct-slice-and-map-in-golang/
+- https://blog.golang.org/context
+- https://blog.golang.org/pipelines
+- https://stackoverflow.com/a/49831018 (Order of initialization: imports, constants, vars, `init` functions)
+- https://golangdocs.com/init-function-in-golang (Multiple `init` functions can be in same file and run in order of definition)
