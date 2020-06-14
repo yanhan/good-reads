@@ -40,3 +40,8 @@
 - https://blog.golang.org/pipelines
 - https://stackoverflow.com/a/49831018 (Order of initialization: imports, constants, vars, `init` functions)
 - https://golangdocs.com/init-function-in-golang (Multiple `init` functions can be in same file and run in order of definition)
+
+
+## Practices
+
+- https://www.youtube.com/watch?v=29LLRKIL_TI (7 Common mistakes in Go and when to avoid them by Steve Francia)
