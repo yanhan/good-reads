@@ -45,3 +45,4 @@
 ## Practices
 
 - https://www.youtube.com/watch?v=29LLRKIL_TI (7 Common mistakes in Go and when to avoid them by Steve Francia)
+- https://www.youtube.com/watch?v=rWBSMsLG8po (How I write HTTP web services after 8 years - Matt Ryer)
