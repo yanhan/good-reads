@@ -47,3 +47,4 @@
 - https://www.youtube.com/watch?v=29LLRKIL_TI (7 Common mistakes in Go and when to avoid them by Steve Francia)
 - https://www.youtube.com/watch?v=rWBSMsLG8po (How I write HTTP web services after 8 years - Matt Ryer)
 - https://www.youtube.com/watch?v=MeOK1UzGHYw (Example of a small proxy in Go; can just look at https://github.com/zorkian/lca2015/blob/master/part5/main.go)
+- https://github.com/cristaloleg/go-advice

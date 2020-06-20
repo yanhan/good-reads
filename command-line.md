@@ -35,6 +35,7 @@
 - https://twitter.com/gumnos/status/1005823998796730369?s=03 (using awk to chain multiple regex)
 - https://twitter.com/klmr/status/1017061371215843328?s=03 (prints unique lines from a file in order, without sorting)
 - https://stackoverflow.com/questions/2342826/how-to-pipe-stderr-and-not-stdout/2381643#2381643 (Send stderr but not stdout to a pipe)
+- http://www.theunixschool.com/2012/04/what-is-cdpath.html (CDPATH; lets you do a fast cd into a directory inside that)
 
 
 ## git
