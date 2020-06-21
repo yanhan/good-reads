@@ -2,6 +2,18 @@
 
 Kubernetes
 
+## Issues at scale
+
+- https://docs.openstack.org/developer/performance-docs/issues/scale_testing_issues.html
+- https://openai.com/blog/scaling-kubernetes-to-2500-nodes/
+- https://medium.com/civis-analytics/https-medium-com-civis-analytics-breaking-kubernetes-how-we-broke-and-fixed-our-k8s-cluster-adfa6fbade61
+
+
+## Why not k8s
+
+- https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c
+
+
 ## Lists
 
 - https://kubedex.com/
