@@ -8,6 +8,11 @@
 - https://github.com/gwatts/gin-adapter (Adapt standard Golang HTTP middleware for Gin; this works)
 
 
+## Web dev general
+
+- https://stackoverflow.com/a/11468132 (Nested html/template)
+
+
 ## Useful libraries
 
 - https://github.com/gin-gonic/gin

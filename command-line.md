@@ -17,6 +17,7 @@
 ## Developer tools
 
 - https://github.com/facebook/PathPicker
+- https://streamhut.io/ (Stream terminal over Internet)
 
 ### top
 

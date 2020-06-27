@@ -7,6 +7,7 @@ Kubernetes
 - https://docs.openstack.org/developer/performance-docs/issues/scale_testing_issues.html
 - https://openai.com/blog/scaling-kubernetes-to-2500-nodes/
 - https://medium.com/civis-analytics/https-medium-com-civis-analytics-breaking-kubernetes-how-we-broke-and-fixed-our-k8s-cluster-adfa6fbade61
+- http://machinezone.github.io/research/networking-solutions-for-kubernetes/
 
 
 ## Why not k8s
