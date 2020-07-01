@@ -63,6 +63,11 @@ Good technical reads
 - http://journal.stuffwithstuff.com/2009/06/05/naming-things-in-code/
 
 
+## Software Engineering Learning
+
+- https://www.youtube.com/watch?v=OUHVxCCH_LM (Incorrect techniques for learning)
+
+
 ## Engineering blog posts
 
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)

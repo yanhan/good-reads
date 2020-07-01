@@ -7,6 +7,7 @@
 - https://dev.mysql.com/doc/refman/5.7/en/create-table-secondary-indexes.html (index on JSON column using generated column and an index on it)
 - https://www.techbeamers.com/mysql-upsert/ (Upsert)
 - https://www.mysqltutorial.org/mysql-left-join.aspx (Look at the `LEFT JOIN clause to find unmatched rows`)
+- https://askubuntu.com/a/784347 (Change MySQL root password)
 
 
 ## Redis
