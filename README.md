@@ -251,3 +251,9 @@ Good technical reads
 ## Dhall
 
 - http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
+
+
+## Swagger
+
+- https://stackoverflow.com/a/47453822 (Multiple response schemas)
+- https://swagger.io/docs/specification/data-models/oneof-anyof-allof-not/

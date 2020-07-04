@@ -15,9 +15,10 @@
 
 ## Useful libraries
 
-- https://github.com/gin-gonic/gin
 - https://github.com/Go-SQL-Driver/MySQL/
 - https://github.com/DATA-DOG/go-sqlmock
+- http://www.gorillatoolkit.org/
+- https://github.com/stretchr/testify
 
 
 ## database/sql
@@ -53,3 +54,14 @@
 - https://www.youtube.com/watch?v=rWBSMsLG8po (How I write HTTP web services after 8 years - Matt Ryer)
 - https://www.youtube.com/watch?v=MeOK1UzGHYw (Example of a small proxy in Go; can just look at https://github.com/zorkian/lca2015/blob/master/part5/main.go)
 - https://github.com/cristaloleg/go-advice
+
+
+## Testing
+
+- https://blog.lamida.org/mocking-in-golang-using-testify/
+
+
+## Concurrency Patterns
+
+- https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833 (good summary)
+- https://blog.golang.org/pipelines
