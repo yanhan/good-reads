@@ -154,6 +154,7 @@ Good technical reads
 ## JavaScript
 
 - https://scotch.io/tutorials/javascript-promises-for-dummies
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
 
 
 ## Firefox
@@ -257,3 +258,8 @@ Good technical reads
 
 - https://stackoverflow.com/a/47453822 (Multiple response schemas)
 - https://swagger.io/docs/specification/data-models/oneof-anyof-allof-not/
+
+
+## Code walkthroughs
+
+- https://golang.org/doc/codewalk/sharemem/
