@@ -65,3 +65,9 @@
 
 - https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833 (good summary)
 - https://blog.golang.org/pipelines
+- https://dzone.com/articles/visualizing-concurrency-in-go-1
+
+
+## Profiling
+
+- https://blog.golang.org/pprof
