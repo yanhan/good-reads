@@ -13,3 +13,9 @@ vim
 - https://stackoverflow.com/a/41994024 (Enable modeline)
 - https://vi.stackexchange.com/a/7426 (Replace nth occurrence of pattern in substitution)
 - https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
+- https://www.simplified.guide/vim/auto-complete-html (Autocomplete HTML close tags)
+
+
+## Useful plugins
+
+- https://github.com/alvan/vim-closetag
