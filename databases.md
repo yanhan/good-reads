@@ -44,6 +44,7 @@
 - https://stackoverflow.com/a/9428353 (Run SQL file in psql)
 - https://stackoverflow.com/a/31376017 (Dump 1 table to a file using `pg_dump`)
 - https://www.postgresqltutorial.com/postgresql-sum-function/ (Using the SUM function)
+- https://stackoverflow.com/a/59938852 (PostgreSQL Helm chart stores password in PV; need to delete those on uninstall so that new password can be used on new install)
 
 
 ## SQL

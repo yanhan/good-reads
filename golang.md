@@ -66,8 +66,14 @@
 - https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833 (good summary)
 - https://blog.golang.org/pipelines
 - https://dzone.com/articles/visualizing-concurrency-in-go-1
+- https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/ch04.html
 
 
 ## Profiling
 
 - https://blog.golang.org/pprof
+
+
+## CGo
+
+- https://golang.org/cmd/cgo/#hdr-Passing_pointers (Cannot pass Go pointers to C; what makes a pointer a Go pointer)
