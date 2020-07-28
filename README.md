@@ -266,3 +266,14 @@ Good technical reads
 ## Code walkthroughs
 
 - https://golang.org/doc/codewalk/sharemem/
+
+
+## Copyright
+
+The content of the links in this repo are copyright to their respective authors.
+
+This collection of links is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/):
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
+Copyright (c) 2019 Yan Han Pang 
