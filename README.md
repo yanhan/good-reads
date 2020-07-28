@@ -268,6 +268,12 @@ Good technical reads
 - https://golang.org/doc/codewalk/sharemem/
 
 
+## LibreOffice Calc
+
+- https://ask.libreoffice.org/en/question/1680/where-is-landscape-setting-in-calc/ (Landscape mode when exporting to PDF)
+- https://stackoverflow.com/a/15220686 (Don't auto format / convert strings to date values)
+
+
 ## Copyright
 
 The content of the links in this repo are copyright to their respective authors.
