@@ -49,7 +49,6 @@
 
 ## SQL
 
-- https://image-store.slidesharecdn.com/14bea8d2-d394-4779-8d2d-f5fd6f4e3265-original.jpeg
 - https://dev.to/abdisalan_js/1-sql-query-you-should-stop-using-1e5k (Don't use OFFSET for pagination)
 - https://dev.to/ivoecpereira/why-you-shouldn-t-use-offset-and-limit-for-your-pagination-610
 - https://searchoracle.techtarget.com/answer/LEFT-OUTER-JOIN-with-ON-condition-or-WHERE-condition (`JOIN` with condition on another table)
