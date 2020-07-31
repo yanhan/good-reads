@@ -145,8 +145,3 @@ AWS
 ## KMS
 
 - https://www.edureka.co/community/17830/call-amazon-kms-decrypt-function-without-using-binary-file (aws kms decrypt: how to use)
-
-
-## ECS
-
-- https://github.com/aws/amazon-ecs-agent/issues/125 (Cannot register container instance that has been deregistered)
