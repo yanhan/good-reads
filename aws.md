@@ -24,7 +24,6 @@ AWS
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 - https://aws.amazon.com/blogs/aws/amazon-cloudfront-support-for-dynamic-content/
-- https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/
 - https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-transactions/
 - https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html
 - https://docs.aws.amazon.com/elasticloadbalancing/latest/network/load-balancer-access-logs.html (NLB access logs only available for TLS listeners)
