@@ -1,12 +1,6 @@
 - https://stackoverflow.com/questions/57885949/private-repo-go-1-13-go-mod-failed-ping-sum-golang-org-lookup-ver/57887036#57887036 (private Golang git repo)
 - https://golang.org/src/crypto/x509/example_test.go (x509 certs code examples)
 
-## Gin
-
-- https://github.com/gin-gonic/gin/issues/339 (Nested templates)
-- https://stackoverflow.com/a/19253970 (Make URL encoded POST request using `http.NewRequest`)
-- https://github.com/gwatts/gin-adapter (Adapt standard Golang HTTP middleware for Gin; this works)
-
 
 ## Web dev general
 
