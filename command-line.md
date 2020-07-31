@@ -1,7 +1,6 @@
 ## Unclassified
 
 - https://github.com/k4m4/terminals-are-sexy?utm_source=digitalocean_newsletter
-- https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 - https://stackoverflow.com/a/450821 (Use awk to sum integers with one int per line)
 - https://github.com/jlevy/the-art-of-command-line
