@@ -1,6 +1,6 @@
 ## Unclassified
 
-- https://github.com/k4m4/terminals-are-sexy?utm_source=digitalocean_newsletter
+- https://github.com/k4m4/terminals-are-sexy
 - https://stackoverflow.com/a/450821 (Use awk to sum integers with one int per line)
 - https://github.com/jlevy/the-art-of-command-line
 - https://twitter.com/climagic/status/1003730115161935873?s=03 (`cat >/dev/null` for temporary scratchpad)
