@@ -23,7 +23,6 @@ AWS
 - https://news.ycombinator.com/item?id=15799759 (VPC Endpoints for your Own Applications and Services)
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-- https://aws.amazon.com/about-aws/whats-new/2018/07/announcing-bring-your-own-ip-for-amazon-virtual-private-cloud-preview/
 - https://aws.amazon.com/blogs/aws/amazon-cloudfront-support-for-dynamic-content/
 - https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova/
 - https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-transactions/
