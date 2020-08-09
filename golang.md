@@ -59,6 +59,8 @@
 
 - https://github.com/golang/mock
 - https://github.com/vektra/mockery
+- https://github.com/smartystreets/goconvey (Organizing tests; there's web UI)
+- https://github.com/alicebob/miniredis
 
 
 ## Concurrency Patterns
