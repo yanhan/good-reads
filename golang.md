@@ -55,6 +55,11 @@
 - https://blog.lamida.org/mocking-in-golang-using-testify/
 
 
+### Mocking
+
+- https://github.com/golang/mock
+
+
 ## Concurrency Patterns
 
 - https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833 (good summary)
