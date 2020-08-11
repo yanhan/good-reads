@@ -53,6 +53,7 @@
 ## Testing
 
 - https://blog.lamida.org/mocking-in-golang-using-testify/
+- https://stackoverflow.com/questions/19167970/mock-functions-in-go
 
 
 ### Mocking
@@ -61,6 +62,7 @@
 - https://github.com/vektra/mockery
 - https://github.com/smartystreets/goconvey (Organizing tests; there's web UI)
 - https://github.com/alicebob/miniredis
+- https://medium.com/agrea-technogies/mocking-dependencies-in-go-bb9739fef008
 
 
 ## Concurrency Patterns
