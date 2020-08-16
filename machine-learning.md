@@ -10,6 +10,7 @@
 - https://news.ycombinator.com/item?id=13821217 (Ask HN: What does your production machine learning pipeline look like?)
 - https://www.quora.com/What-are-some-best-practices-for-training-machine-learning-models/answer/Xavier-Amatriain
 - https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
+- http://work.caltech.edu/library/
 
 
 ## Statistics
