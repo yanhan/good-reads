@@ -59,8 +59,8 @@ Good technical reads
 - https://www.divio.com/en/blog/documentation/
 - http://highscalability.com/blog/2013/7/17/how-do-you-create-a-100th-monkey-software-development-cultur.html
 - https://www.quora.com/What-little-habits-made-you-a-better-software-engineer/answer/Damien-Roche
-- http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
-- http://journal.stuffwithstuff.com/2009/06/05/naming-things-in-code/
+- https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
+- https://journal.stuffwithstuff.com/2009/06/05/naming-things-in-code/
 
 
 ## Software Engineering Learning
