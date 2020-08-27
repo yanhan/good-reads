@@ -8,6 +8,11 @@
 - https://blog.golang.org/package-names
 
 
+## Style
+
+- https://github.com/golang/go/wiki/CodeReviewComments
+
+
 ## Web dev general
 
 - https://stackoverflow.com/a/11468132 (Nested html/template)
