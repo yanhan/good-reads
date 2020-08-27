@@ -1,6 +1,12 @@
 - https://stackoverflow.com/questions/57885949/private-repo-go-1-13-go-mod-failed-ping-sum-golang-org-lookup-ver/57887036#57887036 (private Golang git repo)
 - https://golang.org/src/crypto/x509/example_test.go (x509 certs code examples)
 
+## Naming
+
+- https://talks.golang.org/2014/names.slide#1
+- https://golang.org/doc/effective_go.html#names
+- https://blog.golang.org/package-names
+
 
 ## Web dev general
 
