@@ -92,3 +92,8 @@
 ## CGo
 
 - https://golang.org/cmd/cgo/#hdr-Passing_pointers (Cannot pass Go pointers to C; what makes a pointer a Go pointer)
+
+
+## Debuggers
+
+- https://golangbot.com/debugging-go-delve
