@@ -10,6 +10,11 @@ Kubernetes
 - http://machinezone.github.io/research/networking-solutions-for-kubernetes/
 
 
+## kind
+
+- https://github.com/kubernetes-sigs/kind/issues/2491#issuecomment-943067643 (solution for worker nodes joining fail)
+
+
 ## Why not k8s
 
 - https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c
@@ -178,6 +183,8 @@ Kubernetes
 
 ## Operators
 
+- https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-operator
+- https://www.redhat.com/en/blog/operators-over-easy-introduction-kubernetes-operators
 - https://blog.openshift.com/kubernetes-operators-best-practices/
 - https://medium.com/@cloudark/kubernetes-operator-faq-e018132c6ea2 (k8s Operator FAQ)
 
@@ -217,6 +224,11 @@ Kubernetes
 
 - https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker
 -https://github.com/kubernetes/kubeadm/issues/1899#issuecomment-552134904 (Specify `--pod-network-cidr` via ClusterConfiguration manifest file)
+
+
+## Custom controllers
+
+- https://github.com/kubernetes/community/blob/d6e3370f2b1f1d76f0507bdbce246d6272831cc5/contributors/devel/sig-api-machinery/controllers.md
 
 
 ## linkerd
