@@ -40,3 +40,8 @@ Lessons from companies / people on scaling systems.
 ## Generating globally unique ids
 
 - https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/
+
+
+## Kafka
+
+- https://www.youtube.com/watch?v=B5j3uNBH8X4 (Apache Kafka Fundamentals by Confluent)

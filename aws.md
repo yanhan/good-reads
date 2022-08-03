@@ -145,3 +145,14 @@ AWS
 ## KMS
 
 - https://www.edureka.co/community/17830/call-amazon-kms-decrypt-function-without-using-binary-file (aws kms decrypt: how to use)
+
+
+## Gotchas
+
+### EKS
+
+- https://docs.aws.amazon.com/eks/latest/userguide/network_reqs.html (Tags required for subnets in order to create load balancer)
+
+### Billing
+
+- https://aws.amazon.com/blogs/security/dont-forget-to-enable-access-to-the-billing-console/

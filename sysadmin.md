@@ -9,6 +9,7 @@ Sysadmin stuff.
 - https://stripe.com/blog/game-day-exercises-at-stripe
 - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
 - https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial
+- https://twitter.com/gergelyorosz/status/1502947315279187979 (Uber Eats glitch which allowed ordering free food in India)
 
 
 ## Load Testing
@@ -300,3 +301,8 @@ Sysadmin stuff.
 
 - https://www.gitops.tech/
 - https://about.gitlab.com/topics/gitops/
+
+
+## nginx
+
+- https://dev.to/danielkun/nginx-everything-about-proxypass-2ona

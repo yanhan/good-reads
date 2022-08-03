@@ -10,6 +10,9 @@ Good technical reads
 - https://twitter.com/b0rk/status/988259255428972545?s=03 (Julia Evans comics - mmap)
 - https://twitter.com/b0rk/status/983705730036285441?s=03 (What's in a process?)
 - https://www.cyberciti.biz/tips/linux-chroot-service.html
+- https://medium.com/geekculture/linux-cpu-context-switch-deep-dive-764bfdae4f01
+- https://www.quora.com/Since-goroutine-is-faster-than-OS-threads-why-do-OS-kernels-not-implement-its-threads-as-goroutines/answer/Terry-Lambert?
+- https://matklad.github.io/2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html
 
 
 ## Testing
