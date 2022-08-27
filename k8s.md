@@ -240,3 +240,8 @@ Kubernetes
 ## Other
 
 - https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/
+
+
+## PersistentVolumes
+
+- https://github.com/kubernetes/autoscaler/issues/4739 (cluster-autoscaler multiple single AZ; need to set `nodeAffinity` on PV)
